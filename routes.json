@@ -1,0 +1,5 @@
+{
+  "/subjects/:id/topics": "subjects/:id/topics",
+  "/subjects/:id/topics/:id": "subjects/:id/topics/:id",
+  "/subjects/:subjectId/topics/:topicId": "/topics/:topicId"
+}
